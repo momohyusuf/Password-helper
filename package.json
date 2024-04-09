@@ -1,0 +1,40 @@
+{
+  "name": "@momohyusuf/strong-password",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A highly customizable lightweight package that helps you check if password is a strong ",
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "password",
+    "strong",
+    "Strong password",
+    "is strong password",
+    "StrongPassword",
+    "check password strength",
+    "password strength checker",
+    "strength checker",
+    "password checker",
+    "password checker strength",
+    "strength password checker",
+    "check-password-strength",
+    "password-strength-checker",
+    "strength-checker",
+    "password-checker",
+    "password-checker-strength",
+    "strength-password-checker",
+    "pass-strength"
+  ],
+  "author": "Momoh Yusuf",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momohyusuf/strong-password.git"
+  },
+  "publishConfig": {
+    "@momohyusuf:registry": "https://npm.pkg.github.com"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
