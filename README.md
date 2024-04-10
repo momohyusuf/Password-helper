@@ -1,4 +1,4 @@
-# Strong Password
+# Password helper
 
 ## Description
 
@@ -9,13 +9,13 @@ This lightweight npm package provides a utility for checking the strength of pas
 To install the package, you can use npm:
 
 ```bash
-npm install strong-password-checker
+npm install password-helper
 ```
 
 ### Usage
 
 ```javascript
-import { strongPassword } from "strong-password-checker";
+import { strongPassword } from "password-helper";
 ```
 
 ```javascript
